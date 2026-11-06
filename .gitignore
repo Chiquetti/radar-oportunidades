@@ -1,0 +1,5 @@
+# Relatórios e mensagens coletadas ficam só no computador de quem usa
+relatorios/*
+!relatorios/.gitkeep
+radar_*.txt
+.DS_Store
